@@ -1,0 +1,12 @@
+initramfs.cpio.gz
+.vscode
+.DS_Store
+*.docx
+*.pages
+*.pdf
+*.png
+submit/
+**/test/
+syscalls.h
+unistd.h
+**/314551128/
