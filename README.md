@@ -1,2 +1,5 @@
 # 2025-OS-HW
-This is a bunch of my homework in my OS course at NYCU
+* This is a bunch of my homework in my OS course at NYCU.
+  * HW1 is some system call for reverse string and temp buffer, which is a great experience of understanding system call.
+  * HW2 is a practice of observing real-time & normal scheduling.
+  * Hw3 is to implement a kernel object, which can show some hardware information of computer.
