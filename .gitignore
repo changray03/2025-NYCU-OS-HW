@@ -3,7 +3,6 @@ initramfs.cpio.gz
 .DS_Store
 *.docx
 *.pages
-*.pdf
 *.png
 submit/
 **/test/
